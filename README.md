@@ -2,11 +2,11 @@
 
 ![盘古之白](https://tva1.sinaimg.cn/large/006y8mN6ly1g95xl43qg2j303l03lq2v.jpg)
 
-[下载链接]()
+[下载链接](https://github.com/DeppWang/alfred-pangu-workflow/releases/download/v1.0/pangu.alfredworkflow)
 
 **前言：**
 
-在使用 [alfred-clipboard-ocr](https://github.com/oott123/alfred-clipboard-ocr) 的过程中，ocr 识别的文字排版不美观，每次都要手动添加空格，想着利用 Workflow 「一步到位」，所以写了这个简单的 Workflow
+在使用 [alfred-clipboard-ocr](https://github.com/oott123/alfred-clipboard-ocr) 的过程中，ocr 识别的文字排版不美观，每次都要手动添加空格，想着利用 Workflow 「一步到位」，所以写了这个简单的 Workflow。
 
 **简介：**
 
@@ -14,7 +14,7 @@
 
 **使用方法**：
 
-复制到剪贴板后，打开 Alfred，输入 `pangu` 关键字，回车。格式后的文本会复制到剪贴板中，此时直接 Ctrl+V 粘贴即可
+复制到剪贴板后，打开 Alfred，输入 `pangu` 关键字，回车。格式后的文本会复制到剪贴板中，此时直接 Ctrl+V 粘贴即可。
 
 **示例：**
 
@@ -22,8 +22,8 @@
 
 **提示：**
 
-[中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
-[為什麼你們就是不能加個空格呢？](https://github.com/vinta/pangu.js)
+- [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
+- [為什麼你們就是不能加個空格呢？](https://github.com/vinta/pangu.js)
 
 **拓展：**
 
