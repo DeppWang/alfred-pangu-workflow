@@ -38,7 +38,7 @@
 	<key>createdby</key>
 	<string>DeppWang</string>
 	<key>description</key>
-	<string>格式化剪贴板文字，为文字中的中文与英文、数字之间加上空格。</string>
+	<string>排版剪贴板文字，加上合适的空格，如：中文与英文、数字之间加上空格。</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
@@ -55,7 +55,7 @@
 				<key>subtext</key>
 				<string></string>
 				<key>text</key>
-				<string>格式化剪贴板文字</string>
+				<string>排版剪贴板文字，加上合适的空格</string>
 				<key>withspace</key>
 				<false/>
 			</dict>
@@ -112,7 +112,7 @@
 		</dict>
 	</array>
 	<key>readme</key>
-	<string>格式化剪贴板文字，为文字中的中文与英文、数字之间加上空格。
+	<string>排版剪贴板文字，加上合适的空格，如：中文与英文、数字之间加上空格。
 具体排版规范请参考：
 「中文文案排版指北」(https://github.com/sparanoid/chinese-copywriting-guidelines)
 「為什麼你們就是不能加個空格呢？」(https://github.com/vinta/pangu.js)</string>
