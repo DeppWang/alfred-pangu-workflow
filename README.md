@@ -2,7 +2,7 @@
 
 ![盘古之白](https://tva1.sinaimg.cn/large/006y8mN6ly1g95xl43qg2j303l03lq2v.jpg)
 
-[下载链接](https://github.com/DeppWang/alfred-pangu-workflow/releases/download/v1.0/pangu.alfredworkflow)
+[下载链接](https://github.com/DeppWang/alfred-pangu-workflow/releases/download/v1.1/pangu.alfredworkflow)
 
 ## 前言
 
@@ -18,7 +18,7 @@
 
 ## 示例
 
-![image-20191121202655416](https://tva1.sinaimg.cn/large/006y8mN6ly1g95xmme437j30zy09stc3.jpg)
+![](https://deppwang.oss-cn-beijing.aliyuncs.com/blog/2020-02-25-150558.png)
 
 ## 排版
 
