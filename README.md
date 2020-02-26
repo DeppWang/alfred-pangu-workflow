@@ -14,7 +14,7 @@
 
 ## 使用方法
 
-复制到剪贴板后，打开 Alfred，输入 `pangu` 关键字，回车。格式后的文本会复制到剪贴板中，此时直接 Ctrl+V 粘贴即可。
+复制到剪贴板后，打开 Alfred，输入 `pangu` 关键字，**回车**。格式后的文本会复制到剪贴板中，此时直接 `Ctrl+V` 粘贴即可。
 
 ## 示例
 
@@ -27,6 +27,6 @@
 
 ## 拓展
 
-[alfred-clipboard-ocr](https://github.com/oott123/alfred-clipboard-ocr) 是一个对剪贴板中的图片内容调用百度云 API 做 OCR 识别的 Alfred 工作流。对于不能选择复制的文字，可利用截屏后 OCR 识别，大大提高生产力。可在 alfred-clipboard-ocr 工作流中，加入 alfred-pangu-workflow 的脚本。
+[alfred-clipboard-ocr](https://github.com/oott123/alfred-clipboard-ocr) 是一个对剪贴板中的图片内容调用百度云 API 做 OCR 识别的 Alfred 工作流。对于不能选择复制的文字，可利用截屏后 OCR 识别，大大提高生产力。**可在 alfred-clipboard-ocr 工作流中，加入 alfred-pangu-workflow 的脚本。**
 
 ![image-20191121203616998](https://tva1.sinaimg.cn/large/006y8mN6ly1g95xwd8pbsj313608y77v.jpg)
