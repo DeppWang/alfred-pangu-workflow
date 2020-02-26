@@ -1,8 +1,8 @@
-# alfred-pangu-workflow
+# alfred-pangu-workflow [下载链接](https://github.com/DeppWang/alfred-pangu-workflow/releases/download/v1.1/pangu.alfredworkflow)
 
 ![盘古之白](https://tva1.sinaimg.cn/large/006y8mN6ly1g95xl43qg2j303l03lq2v.jpg)
 
-[下载链接](https://github.com/DeppWang/alfred-pangu-workflow/releases/download/v1.1/pangu.alfredworkflow)
+
 
 ## 前言
 
